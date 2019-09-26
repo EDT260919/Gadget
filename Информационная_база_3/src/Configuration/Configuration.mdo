@@ -37,6 +37,7 @@
   <styles>Style.Корпоративный</styles>
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
+  <roles>Role.Администратор</roles>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
